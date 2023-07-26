@@ -1,0 +1,23 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+img {
+	max-width: 100%;
+}
+#button {
+	background-color: red;
+	border: none;
+	padding: 10px;
+	cursor: pointer;
+}
+.red {
+	background-color: red;
+}
+.green {
+	background-color: green;
+}
+.darkblue {
+	background-color: darkblue;
+}
